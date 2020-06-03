@@ -1,5 +1,6 @@
 from bs4 import BeautifulSoup as bs
 import time
+from requests import get
 
 while True:
 	time.sleep(60)
